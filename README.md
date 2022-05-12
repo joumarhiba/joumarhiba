@@ -8,6 +8,7 @@
 
 
 📫 How to reach me : linkdin
+[![HibaJOUMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=joumarhiba)](https://github.com/joumarhiba/github-readme-stats)
 
 <!--
 **joumarhiba/joumarhiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
