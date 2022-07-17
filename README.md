@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Laravel |Vuejs | WordPress
+🌱 I’m currently learning Laravel |Vuejs | Reactjs
  
 
 💬 Ask me about Programmation
 
 
-📫 How to reach me : linkdin
+📫 How to reach me : linkdin : https://www.linkedin.com/in/hiba-joumar/
 
 
 
