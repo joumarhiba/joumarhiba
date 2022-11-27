@@ -37,10 +37,17 @@
 </div>
 
 <h2>
-📫 Feel free to contact me on linkedin </h2>
+📫 Contact me </h2>
+<h3>Feel free to DM me , i gonna answer you ASAP 👀</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hiba-joumar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/joumarhiba">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white" alt="github Badge"/>
+  </a>
+  <a href="mailto:joumhiba7@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="email Badge"/>
   </a>
 </div>
 
