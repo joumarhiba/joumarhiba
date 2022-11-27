@@ -59,7 +59,7 @@
 [![HibaJOUMAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=joumarhiba&theme=dark&background=000000)](https://github.com/joumarhiba/github-readme-stats)
 
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
