@@ -2,7 +2,7 @@
 
 <div align="center">
  <h1> Hi there 👋 </h2>
-  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="330px"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="330px"/>
 </div>
 
 <h3>
